@@ -12,4 +12,8 @@ public class DemoController {
 
 	}
 
+	public void test4() {
+		System.out.println("update d");
+
+	}
 }
