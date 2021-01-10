@@ -7,4 +7,8 @@ public class DemoController {
 
 	}
 
+	public void test1() {
+
+	}
+
 }
