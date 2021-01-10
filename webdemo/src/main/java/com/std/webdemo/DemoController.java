@@ -14,6 +14,16 @@ public class DemoController {
 	
 	public void test4() {
 		System.out.println("update d");
+	}
+
+
+	public void test2() {
+		System.out.println("update b");
+
+	}
+	
+	public void test3() {
+		System.out.println("update c");
 
 	}
 }
