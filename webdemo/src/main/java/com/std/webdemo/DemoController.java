@@ -8,6 +8,7 @@ public class DemoController {
 	}
 
 	public void test1() {
+		System.out.println("update a");
 
 	}
 
